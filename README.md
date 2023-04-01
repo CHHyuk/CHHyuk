@@ -30,6 +30,6 @@
   
 <br/>
   
-![CHHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHHyuk&show_icons=true&theme=radical)
+![CHHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHHyuk&show_icons=true&theme=dark)
 
 </div>
