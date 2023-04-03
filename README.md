@@ -1,7 +1,7 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=200&fontColor=ffffff&text=CHHyuk&animation=fadeIn)
-### :smile: Welcome my github profile ! :smile: 
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=200&fontColor=ffffff&text=HanHyuk&animation=fadeIn)
+### :smile: Welcome to my github ! :smile: 
 
 <br/>
 <br/>
