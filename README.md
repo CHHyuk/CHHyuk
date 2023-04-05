@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=200&fontColor=ffffff&text=HanHyuk&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=200&fontColor=ffffff&text=CHHyuk&animation=fadeIn)
 ### :smile: Welcome to my github ! :smile: 
 
 <br/>
