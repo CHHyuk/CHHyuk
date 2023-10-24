@@ -2,7 +2,6 @@
 
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=200&fontColor=ffffff&text=CHHyuk&animation=fadeIn)
 ### :smile: Welcome to my github ! :smile: 
-<a href="https://profile-d6371.web.app" target="_blank"> click to profile page </a>
 <br/>
 <br/>
 <br/>
